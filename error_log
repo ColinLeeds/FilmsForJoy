@@ -1,0 +1,91 @@
+[18-Feb-2011 19:30:50] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Feb-2011 18:40:40] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Apr-2011 14:48:19] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/filmsfor/public_html/test.php on line 32
+[05-Apr-2011 14:49:24] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/filmsfor/public_html/test.php on line 32
+[05-Apr-2011 14:49:26] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/filmsfor/public_html/test.php on line 32
+[05-Apr-2011 14:49:27] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/filmsfor/public_html/test.php on line 32
+[05-Apr-2011 14:50:00] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/filmsfor/public_html/test.php on line 33
+[05-Apr-2011 14:50:02] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/filmsfor/public_html/test.php on line 33
+[05-Apr-2011 15:48:30] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/filmsfor/public_html/film_details.php on line 20
+[05-Apr-2011 15:49:54] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/filmsfor/public_html/film_details.php on line 20
+[05-Apr-2011 15:49:57] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/filmsfor/public_html/film_details.php on line 20
+[05-Apr-2011 15:49:58] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/filmsfor/public_html/film_details.php on line 20
+[05-Apr-2011 15:49:59] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/filmsfor/public_html/film_details.php on line 20
+[05-Apr-2011 15:51:28] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/filmsfor/public_html/film_details.php on line 20
+[05-Apr-2011 15:51:29] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/filmsfor/public_html/film_details.php on line 20
+[05-Apr-2011 15:51:30] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/filmsfor/public_html/film_details.php on line 20
+[05-Apr-2011 16:07:09] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/filmsfor/public_html/film_details.php on line 33
+[05-Apr-2011 16:31:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:32:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:32:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:32:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:33:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:34:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:34:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:35:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:35:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:35:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:35:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:35:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:46:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:48:44] PHP Parse error:  syntax error, unexpected T_WHILE, expecting ',' or ';' in /home/filmsfor/public_html/film_details.php on line 57
+[05-Apr-2011 16:49:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 56
+[05-Apr-2011 16:51:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/filmsfor/public_html/film_details.php on line 57
+[13-Apr-2011 12:03:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 69
+[13-Apr-2011 12:03:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 70
+[13-Apr-2011 12:03:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 71
+[13-Apr-2011 12:04:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 69
+[13-Apr-2011 12:04:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 70
+[13-Apr-2011 12:04:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 71
+[13-Apr-2011 12:11:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 69
+[13-Apr-2011 12:16:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 69
+[13-Apr-2011 12:21:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 69
+[13-Apr-2011 12:27:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 70
+[13-Apr-2011 12:27:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 71
+[13-Apr-2011 12:27:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 72
+[13-Apr-2011 12:30:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 70
+[13-Apr-2011 12:30:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 71
+[13-Apr-2011 12:30:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:14) in /home/filmsfor/public_html/login.php on line 72
+[13-Apr-2011 12:31:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 65
+[13-Apr-2011 12:31:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 66
+[13-Apr-2011 12:31:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 67
+[13-Apr-2011 12:33:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 65
+[13-Apr-2011 12:33:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 66
+[13-Apr-2011 12:33:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 67
+[13-Apr-2011 12:42:11] PHP Parse error:  syntax error, unexpected '}' in /home/filmsfor/public_html/login.php on line 87
+[13-Apr-2011 12:57:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 63
+[13-Apr-2011 12:57:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 64
+[13-Apr-2011 12:57:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 65
+[13-Apr-2011 13:05:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 63
+[13-Apr-2011 13:05:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 64
+[13-Apr-2011 13:05:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:16) in /home/filmsfor/public_html/login.php on line 65
+[13-Apr-2011 13:11:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 62
+[13-Apr-2011 13:11:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 63
+[13-Apr-2011 13:11:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 64
+[13-Apr-2011 13:12:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 62
+[13-Apr-2011 13:12:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 63
+[13-Apr-2011 13:12:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 64
+[13-Apr-2011 13:14:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 62
+[13-Apr-2011 13:14:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 63
+[13-Apr-2011 13:14:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 64
+[13-Apr-2011 13:16:00] PHP Parse error:  syntax error, unexpected T_WHILE in /home/filmsfor/public_html/login.php on line 50
+[13-Apr-2011 13:16:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 62
+[13-Apr-2011 13:16:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 63
+[13-Apr-2011 13:16:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 64
+[13-Apr-2011 13:19:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 64
+[13-Apr-2011 13:20:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 64
+[13-Apr-2011 13:21:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 63
+[13-Apr-2011 13:22:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 15
+[13-Apr-2011 13:22:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/login.php:15) in /home/filmsfor/public_html/login.php on line 15
+[13-Apr-2011 13:25:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:9) in /home/filmsfor/public_html/newtest.php on line 10
+[13-Apr-2011 13:25:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:9) in /home/filmsfor/public_html/newtest.php on line 9
+[13-Apr-2011 13:26:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:9) in /home/filmsfor/public_html/newtest.php on line 9
+[13-Apr-2011 13:26:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:4) in /home/filmsfor/public_html/newtest.php on line 4
+[13-Apr-2011 13:27:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:1) in /home/filmsfor/public_html/newtest.php on line 1
+[13-Apr-2011 13:27:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:1) in /home/filmsfor/public_html/newtest.php on line 1
+[13-Apr-2011 13:28:07] PHP Fatal error:  Call to undefined function  phpheader() in /home/filmsfor/public_html/newtest.php on line 1
+[13-Apr-2011 13:28:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:1) in /home/filmsfor/public_html/newtest.php on line 1
+[13-Apr-2011 13:30:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:1) in /home/filmsfor/public_html/newtest.php on line 1
+[13-Apr-2011 13:37:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:1) in /home/filmsfor/public_html/newtest.php on line 1
+[13-Apr-2011 13:37:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:1) in /home/filmsfor/public_html/newtest.php on line 1
+[13-Apr-2011 13:37:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filmsfor/public_html/newtest.php:1) in /home/filmsfor/public_html/newtest.php on line 1
